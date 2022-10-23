@@ -2,5 +2,4 @@
 My Submissions related to Full Stack Blockchain Development Course in iNeuron
 
 
-Mohan Sai Potla
-Mail: potlamohansai@gmail.com
+Any Queries about repo, Mail me: potlamohansai@gmail.com
